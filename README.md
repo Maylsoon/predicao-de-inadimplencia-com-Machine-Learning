@@ -19,7 +19,7 @@ Por isso, o modelo foi otimizado para **alta sensibilidade (recall)** na classe 
 
 Os dados utilizados são públicos e podem ser obtidos em:
 
-🔗 [COLE AQUI O LINK DA BASE]
+🔗 https://www.kaggle.com/competitions/home-credit-default-risk
 
 Devido ao tamanho do dataset, os dados não estão incluídos neste repositório.
 
